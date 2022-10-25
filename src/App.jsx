@@ -6,11 +6,6 @@ import ChildComponent2 from './03/ChildComponent2';
 import DefaultPropsComponent from './03/DefaultPropsComponent';
 import ChildProperty from './03/ChildProperty';
 
-// 아래 머터리얼 스타일 설정을 삭제합니다.
-// import './materialize.scss';
-// import './App.css';
-// import InputWithStyle from './04/InputWithStyle';
-
 class App extends Component {
   //render() 함수는 HTML을 반환한다(웹 브라우저에 출력)
   render() {
